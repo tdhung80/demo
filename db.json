@@ -1,36 +1,6 @@
 {
   "SampleFile": {
     "ini": "[QCFILECOLORLIST]\r\nCOLOR_00_R = 122\r\nCOLOR_00_G = 122\r\nCOLOR_00_B = 255\r\n\r\nCOLOR_01_R = 255\r\nCOLOR_01_G = 122\r\nCOLOR_01_B = 122\r\n\r\n[QCFILESETTING_XS]\r\nQCFILE_NUM = 20\r\n\r\n[QCTYPESETTING_XS]\r\nTYPE_00_NAME = \"DBSTRING_005059\"\r\nTYPE_00_ISXBARM = 0\r\nTYPE_00_CONTROLTYPE = 0\r\n\r\n[QCLEVELSETTING_XS]\r\nLEVEL_00_NAME = \"DBSTRING_001119\"\r\nLEVEL_01_NAME = \"DBSTRING_005052\"\r\nLEVEL_02_NAME = \"DBSTRING_005053\"\r\nLEVEL_03_NAME = \"DBSTRING_005054\"\r\nLEVEL_04_NAME = \"DBSTRING_005055\"\r\nLEVEL_05_NAME = \"DBSTRING_005056\"\r\nLEVEL_06_NAME = \"DBSTRING_005057\"  ",
-    "csv": "Model Type,FileWatcher,IPUBackup,SNCSScheduler,SoftwareUpdater,BackgroundSampleMonitor,BCQM-UN-TargetlimitWatcher,DatabaseRolling,KuandoLightService,MaintenanceMode,QCFileComments,QCMonitor,ReagentLogMonitor,SNCSCommManager,WindowsEventWatcher,DeviceDataService,SystemInfo,XBarMMonotir
-BT,,,,,,,,,,,,,,,,,
-CT,,,,,,,,,,,,,,,,,
-CV DM96,,,,,,,,,,,,,,,,,
-CVR,,,,,,,,,,,,,,,,,
-DI-60,,,,,,,x,,,,,,,,,,
-DM1200,,,,,,,x,,,,,,,,,,
-DM8,,,,,,,x,,,,,,,,,,
-DM9600,,,,,,,x,,,,,,,,,,
-DM-RDBS,,,,,,,x,,,,,,,,,,
-LC,,,,,,,,,,,,,,,,,
-RU,,,,,,,,,,,,,,,,,
-SP,,,,,,,,,,,,,,,,,
-SP-1000I,,,,,,,,,,,,,,,,,
-UC-3500,,,,,,,,,,,,,,,,,
-UD-10,,,,,,,,,,,,,,,,,
-UDM,,,,,,x,,x,,,,,,,,,
-UF-1000I,,,,,,,,,,,,,,,,,
-UF-4000,,,,,,,,,,,,,,,,,
-UF-5000,,,,,,,,,,,,,,,,,
-UN,,,,,,,,,,,,,,,,,
-XE,,,,,x,,,,,,x,x,,,,,x
-XE-5000,,,,,x,,,,,,x,x,,,,,x
-XN,,,,,x,,,,,,x,x,,,,,x
-XN-L,,,,,x,,,,,,x,x,,,,,x
-XS,,,,,x,,,,,,x,x,,,,,x
-XT,,,,,x,,,,,,x,x,,,,,x
-XT-4000I,,,,,x,,,,,,x,x,,,,,x
-XTV,,,,,x,,,,,,x,x,,,,,x
-IPU,X,X,,,,,,,,,,,x,x,x,x,
-"
+    "csv": "Model Type,FileWatcher,IPUBackup,SNCSScheduler,SoftwareUpdater,BackgroundSampleMonitor,BCQM-UN-TargetlimitWatcher,DatabaseRolling,KuandoLightService,MaintenanceMode,QCFileComments,QCMonitor,ReagentLogMonitor,SNCSCommManager,WindowsEventWatcher,DeviceDataService,SystemInfo,XBarMMonotir\r\n BT,,,,,,,,,,,,,,,,,\r\n CT,,,,,,,,,,,,,,,,,\r\n CV DM96,,,,,,,,,,,,,,,,,\r\n CVR,,,,,,,,,,,,,,,,,\r\n DI-60,,,,,,,x,,,,,,,,,,\r\n DM1200,,,,,,,x,,,,,,,,,,\r\n DM8,,,,,,,x,,,,,,,,,,\r\n DM9600,,,,,,,x,,,,,,,,,,\r\n DM-RDBS,,,,,,,x,,,,,,,,,,\r\n LC,,,,,,,,,,,,,,,,,\r\n RU,,,,,,,,,,,,,,,,,\r\n SP,,,,,,,,,,,,,,,,,\r\n SP-1000I,,,,,,,,,,,,,,,,,\r\n UC-3500,,,,,,,,,,,,,,,,,\r\n UD-10,,,,,,,,,,,,,,,,,\r\n UDM,,,,,,x,,x,,,,,,,,,\r\n UF-1000I,,,,,,,,,,,,,,,,,\r\n UF-4000,,,,,,,,,,,,,,,,,\r\n UF-5000,,,,,,,,,,,,,,,,,\r\n UN,,,,,,,,,,,,,,,,,\r\n XE,,,,,x,,,,,,x,x,,,,,x\r\n XE-5000,,,,,x,,,,,,x,x,,,,,x\r\n XN,,,,,x,,,,,,x,x,,,,,x\r\n XN-L,,,,,x,,,,,,x,x,,,,,x\r\n XS,,,,,x,,,,,,x,x,,,,,x\r\n XT,,,,,x,,,,,,x,x,,,,,x\r\n XT-4000I,,,,,x,,,,,,x,x,,,,,x\r\n XTV,,,,,x,,,,,,x,x,,,,,x\r\n IPU,X,X,,,,,,,,,,,x,x,x,x,\r\n"
   }
 }
