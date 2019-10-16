@@ -1,5 +1,36 @@
 {
-  "iniFile": {
-    "body": "[QCFILECOLORLIST]\r\nCOLOR_00_R = 122\r\nCOLOR_00_G = 122\r\nCOLOR_00_B = 255\r\n\r\nCOLOR_01_R = 255\r\nCOLOR_01_G = 122\r\nCOLOR_01_B = 122\r\n\r\n[QCFILESETTING_XS]\r\nQCFILE_NUM = 20\r\n\r\n[QCTYPESETTING_XS]\r\nTYPE_00_NAME = \"DBSTRING_005059\"\r\nTYPE_00_ISXBARM = 0\r\nTYPE_00_CONTROLTYPE = 0\r\n\r\n[QCLEVELSETTING_XS]\r\nLEVEL_00_NAME = \"DBSTRING_001119\"\r\nLEVEL_01_NAME = \"DBSTRING_005052\"\r\nLEVEL_02_NAME = \"DBSTRING_005053\"\r\nLEVEL_03_NAME = \"DBSTRING_005054\"\r\nLEVEL_04_NAME = \"DBSTRING_005055\"\r\nLEVEL_05_NAME = \"DBSTRING_005056\"\r\nLEVEL_06_NAME = \"DBSTRING_005057\"  "
+  "SampleFile": {
+    "ini": "[QCFILECOLORLIST]\r\nCOLOR_00_R = 122\r\nCOLOR_00_G = 122\r\nCOLOR_00_B = 255\r\n\r\nCOLOR_01_R = 255\r\nCOLOR_01_G = 122\r\nCOLOR_01_B = 122\r\n\r\n[QCFILESETTING_XS]\r\nQCFILE_NUM = 20\r\n\r\n[QCTYPESETTING_XS]\r\nTYPE_00_NAME = \"DBSTRING_005059\"\r\nTYPE_00_ISXBARM = 0\r\nTYPE_00_CONTROLTYPE = 0\r\n\r\n[QCLEVELSETTING_XS]\r\nLEVEL_00_NAME = \"DBSTRING_001119\"\r\nLEVEL_01_NAME = \"DBSTRING_005052\"\r\nLEVEL_02_NAME = \"DBSTRING_005053\"\r\nLEVEL_03_NAME = \"DBSTRING_005054\"\r\nLEVEL_04_NAME = \"DBSTRING_005055\"\r\nLEVEL_05_NAME = \"DBSTRING_005056\"\r\nLEVEL_06_NAME = \"DBSTRING_005057\"  ",
+    "csv": "Model Type,FileWatcher,IPUBackup,SNCSScheduler,SoftwareUpdater,BackgroundSampleMonitor,BCQM-UN-TargetlimitWatcher,DatabaseRolling,KuandoLightService,MaintenanceMode,QCFileComments,QCMonitor,ReagentLogMonitor,SNCSCommManager,WindowsEventWatcher,DeviceDataService,SystemInfo,XBarMMonotir
+BT,,,,,,,,,,,,,,,,,
+CT,,,,,,,,,,,,,,,,,
+CV DM96,,,,,,,,,,,,,,,,,
+CVR,,,,,,,,,,,,,,,,,
+DI-60,,,,,,,x,,,,,,,,,,
+DM1200,,,,,,,x,,,,,,,,,,
+DM8,,,,,,,x,,,,,,,,,,
+DM9600,,,,,,,x,,,,,,,,,,
+DM-RDBS,,,,,,,x,,,,,,,,,,
+LC,,,,,,,,,,,,,,,,,
+RU,,,,,,,,,,,,,,,,,
+SP,,,,,,,,,,,,,,,,,
+SP-1000I,,,,,,,,,,,,,,,,,
+UC-3500,,,,,,,,,,,,,,,,,
+UD-10,,,,,,,,,,,,,,,,,
+UDM,,,,,,x,,x,,,,,,,,,
+UF-1000I,,,,,,,,,,,,,,,,,
+UF-4000,,,,,,,,,,,,,,,,,
+UF-5000,,,,,,,,,,,,,,,,,
+UN,,,,,,,,,,,,,,,,,
+XE,,,,,x,,,,,,x,x,,,,,x
+XE-5000,,,,,x,,,,,,x,x,,,,,x
+XN,,,,,x,,,,,,x,x,,,,,x
+XN-L,,,,,x,,,,,,x,x,,,,,x
+XS,,,,,x,,,,,,x,x,,,,,x
+XT,,,,,x,,,,,,x,x,,,,,x
+XT-4000I,,,,,x,,,,,,x,x,,,,,x
+XTV,,,,,x,,,,,,x,x,,,,,x
+IPU,X,X,,,,,,,,,,,x,x,x,x,
+"
   }
 }
